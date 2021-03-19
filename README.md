@@ -2,6 +2,7 @@
 
 Blade custom coloring **for `blade-php`**.
 > Fixes color-issue related to brackets in `@blade methods`
+
 > Additionally, switch to Language Mode: `Blade` now grays out htmls, allowing even more easier debugging/navigating
 
 ## Screenshot
