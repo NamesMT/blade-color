@@ -1,0 +1,44 @@
+{
+	"name": "blade-color",
+	"displayName": "Blade Color",
+	"description": "[Blade Color] Custom coloring for blade-php",
+	"version": "0.1.2",
+	"publisher": "namesmt",
+	"icon": "blade.png",
+	"author": {
+		"name": "Trung Dang",
+		"email": "trungdang6102@gmail.com",
+		"url": "https://fb.com/grim.reaper.slave"
+	},
+	"homepage": "https://github.com/NamesMT/blade-color",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/NamesMT/blade-color"
+	},
+	"bugs": {
+		"url": "https://github.com/NamesMT/blade-color/issues"
+	},
+	"keywords": [
+		"blade",
+		"template",
+		"laravel",
+		"theme",
+		"color",
+		"blade-php"
+	],
+	"engines": {
+		"vscode": "^1.15.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Blade Color",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Blade Color-color-theme.json"
+			}
+		]
+	}
+}
