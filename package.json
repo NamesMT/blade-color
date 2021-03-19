@@ -2,7 +2,7 @@
 	"name": "blade-color",
 	"displayName": "Blade Color",
 	"description": "[Blade Color] Custom coloring for blade-php",
-	"version": "0.1.2",
+	"version": "0.1.3",
 	"publisher": "namesmt",
 	"icon": "blade.png",
 	"author": {
