@@ -1,5 +1,10 @@
 # [Blade Color](https://marketplace.visualstudio.com/items?itemName=namesmt.blade-color) `for` [blade-php](https://marketplace.visualstudio.com/items?itemName=namesmt.blade-php)
 
+> ## ⚠️ Deprecated
+> This extension is deprecated and no longer maintained. Please install
+> [blade-php](https://marketplace.visualstudio.com/items?itemName=namesmt.blade-php)
+> on its own instead — its built-in highlighting covers what this theme used to fix.
+
 Blade custom coloring **for `blade-php`**.
 > Fixes color-issue related to brackets in `@blade methods`
 

@@ -1,8 +1,8 @@
 {
 	"name": "blade-color",
-	"displayName": "Blade Color",
-	"description": "[Blade Color] Custom coloring for blade-php",
-	"version": "0.1.4",
+	"displayName": "Blade Color (deprecated)",
+	"description": "[DEPRECATED] Custom coloring for blade-php — no longer needed; install blade-php on its own.",
+	"version": "0.1.5",
 	"license": "MIT",
 	"publisher": "namesmt",
 	"icon": "blade.png",
