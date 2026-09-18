@@ -30,6 +30,12 @@ Todo:
 
 Files any [issue(s)](https://github.com/NamesMT/blade-color/issues) or mail me: [trungdang6102@gmail.com](mailto:trungdang6102@gmail.com).
 
+## Development
+
+* `npm run validate` — manifest + theme (JSONC) validation and `include`-chain check.
+* `npm run package` — build a `.vsix` locally.
+* Publishing a new version is documented in [RELEASING.md](RELEASING.md).
+
 ## License
 
 **MIT**
